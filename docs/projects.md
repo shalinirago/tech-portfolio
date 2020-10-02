@@ -4,7 +4,7 @@ title: Projects
 ---
 Hi! This is Shalini!
 
-![sample image](.assets/david-kovalenko-G85VuTpw6jg-unsplash.jpg)
+![sample image](.assets/IMG_20181224_162941__01-EFFECTS.jpg)
 
 Embed any notable projects in this page.
 
