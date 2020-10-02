@@ -2,6 +2,9 @@
 id: projects
 title: Projects
 ---
+Hi! This is Shalini!
+
+![sample image](.assets/david-kovalenko-G85VuTpw6jg-unsplash.jpg)
 
 Embed any notable projects in this page.
 
