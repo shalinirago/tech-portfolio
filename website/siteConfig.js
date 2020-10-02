@@ -67,7 +67,7 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'linkedin.com/in/shaliniragothaman',
+        linkedin: 'shaliniragothaman',
         twitter: '',
         github: '',
     },
